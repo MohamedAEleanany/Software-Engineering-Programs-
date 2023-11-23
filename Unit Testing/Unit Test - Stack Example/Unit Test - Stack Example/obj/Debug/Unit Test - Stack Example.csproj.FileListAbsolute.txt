@@ -1,0 +1,6 @@
+c:\users\mohamed eleanany\documents\visual studio 2012\Projects\Unit Test - Stack Example\Unit Test - Stack Example\bin\Debug\Unit Test - Stack Example.exe.config
+c:\users\mohamed eleanany\documents\visual studio 2012\Projects\Unit Test - Stack Example\Unit Test - Stack Example\bin\Debug\Unit Test - Stack Example.exe
+c:\users\mohamed eleanany\documents\visual studio 2012\Projects\Unit Test - Stack Example\Unit Test - Stack Example\bin\Debug\Unit Test - Stack Example.pdb
+c:\users\mohamed eleanany\documents\visual studio 2012\Projects\Unit Test - Stack Example\Unit Test - Stack Example\obj\Debug\Unit Test - Stack Example.csprojResolveAssemblyReference.cache
+c:\users\mohamed eleanany\documents\visual studio 2012\Projects\Unit Test - Stack Example\Unit Test - Stack Example\obj\Debug\Unit Test - Stack Example.exe
+c:\users\mohamed eleanany\documents\visual studio 2012\Projects\Unit Test - Stack Example\Unit Test - Stack Example\obj\Debug\Unit Test - Stack Example.pdb
