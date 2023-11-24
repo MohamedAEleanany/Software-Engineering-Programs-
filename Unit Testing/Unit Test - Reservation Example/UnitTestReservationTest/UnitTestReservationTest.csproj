@@ -3,11 +3,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{690CED06-D574-4D36-87FA-B33A98CFC0E3}</ProjectGuid>
+    <ProjectGuid>{AC7989EB-D23A-4839-BA69-DF5F6C18980F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UnitTestSwappingMethod</RootNamespace>
-    <AssemblyName>UnitTestSwappingMethod</AssemblyName>
+    <RootNamespace>UnitTestReservationTest</RootNamespace>
+    <AssemblyName>UnitTestReservationTest</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -16,7 +16,6 @@
     <ReferencePath>$(ProgramFiles)\Common Files\microsoft shared\VSTT\$(VisualStudioVersion)\UITestExtensionPackages</ReferencePath>
     <IsCodedUITest>False</IsCodedUITest>
     <TestProjectType>UnitTest</TestProjectType>
-    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -55,9 +54,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Unit Testing - Swapping Values Example\Unit Testing - Swapping Values Example.csproj">
-      <Project>{33d197ff-bad6-4182-82f5-11bc5dd7096c}</Project>
-      <Name>Unit Testing - Swapping Values Example</Name>
+    <ProjectReference Include="..\Unit Test - Reservation Example\Unit Test - Reservation Example.csproj">
+      <Project>{7a2df38c-3bdd-41ed-b3c1-99471e9c1fd3}</Project>
+      <Name>Unit Test - Reservation Example</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
